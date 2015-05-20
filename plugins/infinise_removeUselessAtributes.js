@@ -18,10 +18,7 @@ exports.fn = function(item) {
     'enable-background',
     'fill-rule',
     'clip-rule',
-    'preserveAspectRatio',
-    'id',
-    'class',
-    'xmlns:xlink'
+    'preserveAspectRatio'
   ];
   
   attrs.forEach(function(attr){
