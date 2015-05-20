@@ -49,3 +49,4 @@ plugins:
   - removeTitle
   - removeDesc
   - infinise_limitedOpacityPrecision
+  - infinise_removeUselessAtributes
